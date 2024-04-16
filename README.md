@@ -1,4 +1,3 @@
-
 <html>
 <title>The Wolf Host Auto Exploit</title>
 <style>
